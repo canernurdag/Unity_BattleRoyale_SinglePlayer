@@ -1,0 +1,25 @@
+﻿BEGIN_OPTIONS
+	Stackable "False"
+	Pipeline "HDRP"
+END_OPTIONS
+
+BEGIN_PROPERTIES
+	[Header(HDRP Options)]
+	[ToggleOff(_TRANSPARENT_WRITES_MOTION_VEC)] _CW_DisableTransparentMV("	Disable Transparent Write Motion Vector", Float) = 0
+	[ToggleOff(_ENABLE_FOG_ON_TRANSPARENT)] _CW_DisableTransparentFog("	Disable Transparent Fog", Float) = 0
+	[Toggle(_ADD_PRECOMPUTED_VELOCITY)] _CW_AddPrecomputedVelocity("	Add Precomputed Velocity", Float) = 0
+	[Toggle(_DISABLE_DECALS)] _CW_DisableDecals("	Disable Decals", Float) = 0
+	[Toggle(_DISABLE_SSR)] _CW_DisableSSR("	Disable SSR", Float) = 0
+	[Toggle(_DISABLE_SSR_TRANSPARENT)] _CW_DisableSSRTransparent("	Disable Transparent SSR", Float) = 0
+	[KeywordEnum(Off, Plane, Sphere, Thin)] _CW_Refraction ("	Refraction", Float) = 0 
+END_PROPERTIES
+
+BEGIN_DEFINES
+	#pragma shader_feature_local _ADD_PRECOMPUTED_VELOCITY
+	#pragma shader_feature_local _TRANSPARENT_WRITES_MOTION_VEC
+	#pragma shader_feature_local _ENABLE_FOG_ON_TRANSPARENT
+	#pragma shader_feature_local _DISABLE_DECALS
+	#pragma shader_feature_local _DISABLE_SSR
+	#pragma shader_feature_local _DISABLE_SSR_TRANSPARENT
+	#pragma shader_feature_local _REFRACTION_OFF _REFRACTION_PLANE _REFRACTION_SPHERE _REFRACTION_THIN         
+END_DEFINES

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733b04f35a4d0f841b507ce20f731202, type: 3}
+  m_Name: WeaponSettingsSO
+  m_EditorClassIdentifier: 
+  weaponSettings:
+    WeaponDatas:
+    - WeaponType: 0
+      Price: 80
+      Description: Assault Rifle
+      DamageAmount: 200
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 2
+      Price: 200
+      Description: Flame Thrower
+      DamageAmount: 400
+      IsRadiusDamage: 0
+      DamageRadius: 10
+      DurationOfMeleeWeaponActiveness: 1.2
+    - WeaponType: 3
+      Price: 90
+      Description: Gravity Gun
+      DamageAmount: 100
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 4
+      Price: 40
+      Description: Pistol
+      DamageAmount: 100
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 5
+      Price: 300
+      Description: HMG
+      DamageAmount: 300
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 6
+      Price: 280
+      Description: Electric Gun
+      DamageAmount: 300
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 7
+      Price: 250
+      Description: SMG
+      DamageAmount: 150
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 8
+      Price: 190
+      Description: Chemical Gun
+      DamageAmount: 200
+      IsRadiusDamage: 1
+      DamageRadius: 5
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 9
+      Price: 500
+      Description: Sniper Rifle
+      DamageAmount: 500
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 10
+      Price: 300
+      Description: Rail Gun
+      DamageAmount: 350
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 11
+      Price: 240
+      Description: Ice Gun
+      DamageAmount: 250
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 12
+      Price: 160
+      Description: Cross Bow
+      DamageAmount: 150
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 13
+      Price: 220
+      Description: Hunting Rifle
+      DamageAmount: 350
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 14
+      Price: 180
+      Description: Shotgun
+      DamageAmount: 200
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 15
+      Price: 450
+      Description: Bazooka
+      DamageAmount: 500
+      IsRadiusDamage: 1
+      DamageRadius: 15
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 16
+      Price: 260
+      Description: MiniGun
+      DamageAmount: 100
+      IsRadiusDamage: 0
+      DamageRadius: 0
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 17
+      Price: 20
+      Description: Knife
+      DamageAmount: 200
+      IsRadiusDamage: 1
+      DamageRadius: 5
+      DurationOfMeleeWeaponActiveness: 2
+    - WeaponType: 18
+      Price: 80
+      Description: Grenade
+      DamageAmount: 300
+      IsRadiusDamage: 1
+      DamageRadius: 15
+      DurationOfMeleeWeaponActiveness: 0
+    - WeaponType: 19
+      Price: 90
+      Description: Smoke Grenade
+      DamageAmount: 100
+      IsRadiusDamage: 1
+      DamageRadius: 15
+      DurationOfMeleeWeaponActiveness: 0

@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d020fa78a4d2c4e86b3699cae09c1e, type: 3}
+  m_Name: CharacterAnimationSettingsSO
+  m_EditorClassIdentifier: 
+  characterAnimationSettings:
+    Victory: Victory
+    PowerUp: PowerUp
+    GetHit0: GetHit1
+    GetHit1: GetHit2
+    KnockDown: KnockDown
+    GetUp: GetUp
+    Dizzy: Dizzy
+    Die: Die
+    CharacterAnimationDatas:
+    - WeaponType: 0
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 2
+      Idle: Idle_Rifle
+      Shoot: Shoot_FlameThrower
+      Reload: Reload_Rifle
+    - WeaponType: 3
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 4
+      Idle: Idle_Handgun
+      Shoot: Shoot_Handgun
+      Reload: Reload_Handgun
+    - WeaponType: 5
+      Idle: Idle_Minigun
+      Shoot: Shoot_Minigun
+      Reload: Reload_Minigun
+    - WeaponType: 6
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 7
+      Idle: Idle_Handgun
+      Shoot: Shoot_Handgun
+      Reload: Reload_Handgun
+    - WeaponType: 8
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 9
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 10
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 11
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 12
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 13
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 14
+      Idle: Idle_Rifle
+      Shoot: Shoot_Rifle
+      Reload: Reload_Rifle
+    - WeaponType: 15
+      Idle: Idle_Bazooka
+      Shoot: Shoot_Bazooka
+      Reload: Reload_Bazooka
+    - WeaponType: 16
+      Idle: Idle_Minigun
+      Shoot: Shoot_Minigun
+      Reload: Reload_Minigun
+    - WeaponType: 17
+      Idle: Idle_Knife
+      Shoot: Shoot_Knife
+      Reload: Reload_Knife
+    - WeaponType: 18
+      Idle: Idle_Grenade
+      Shoot: Shoot_Grenade
+      Reload: Reload_Grenade
+    - WeaponType: 19
+      Idle: Idle_Grenade
+      Shoot: Shoot_Grenade
+      Reload: Reload_Grenade

@@ -1,0 +1,34 @@
+{
+    "name": "CW.Common",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.HighDefinition.Runtime",
+        "JBooth.BetterShaders.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.jbooth.better-shaders",
+            "expression": "",
+            "define": "__BETTERSHADERS__"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "",
+            "define": "__HDRP__"
+        },
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "",
+            "define": "__INPUTSYSTEM__"
+        }
+    ],
+    "noEngineReferences": false
+}

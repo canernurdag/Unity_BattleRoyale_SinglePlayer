@@ -1,0 +1,12 @@
+﻿BEGIN_OPTIONS
+	Stackable "False"
+END_OPTIONS
+
+BEGIN_PROPERTIES
+    [Header(UNITY FOG)]
+    [Toggle(DISABLEFOG)] _CW_DisableFog("	Disable", Float) = 0
+END_PROPERTIES
+
+BEGIN_DEFINES
+    #pragma shader_feature_local DISABLEFOG    
+END_DEFINES

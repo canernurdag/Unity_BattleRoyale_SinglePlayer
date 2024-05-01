@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5209fe5660051e242a9540ee8160d738, type: 3}
+  m_Name: AssetReferencesWeaponSO
+  m_EditorClassIdentifier: 
+  AssetReferencesWeaponDatas:
+    AssetReferencesWeaponDataList:
+    - WeaponType: 0
+      AssetReference:
+        m_AssetGUID: 26c304c542935a646a21dd134e1c2cea
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 2
+      AssetReference:
+        m_AssetGUID: 77c66d64e7d1a8b458934029d50fcbf1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 3
+      AssetReference:
+        m_AssetGUID: aa9e0e616408abf4896f703b691204ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 4
+      AssetReference:
+        m_AssetGUID: 226c568e48d1bbc45a3110f8660d2e2c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 5
+      AssetReference:
+        m_AssetGUID: 0ad09dd81121ac247850956387ca9111
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 6
+      AssetReference:
+        m_AssetGUID: 71c7a22b614cbb443877d9ba29e9999d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 7
+      AssetReference:
+        m_AssetGUID: 6a699b542f767504c9d47c83674ad4d9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 8
+      AssetReference:
+        m_AssetGUID: ce5dc50b63174014f92200f39ed282d1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 9
+      AssetReference:
+        m_AssetGUID: d4481c76bd8df8844b540671759a53e0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 10
+      AssetReference:
+        m_AssetGUID: 180fdca6a657c804ea236f9f0ac7d81b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 11
+      AssetReference:
+        m_AssetGUID: 706c97aa8d177e1449c87cb36a81056d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 12
+      AssetReference:
+        m_AssetGUID: ca77f62d2888f6c4a874efb77151ed72
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 13
+      AssetReference:
+        m_AssetGUID: b09ec5d8c38278946a04894adb8f59e2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 14
+      AssetReference:
+        m_AssetGUID: 1f1289a1c8e71ab4f9f8050e0a78c9ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 15
+      AssetReference:
+        m_AssetGUID: f3aa0537edf19a840a5ee3762f7bb9ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 16
+      AssetReference:
+        m_AssetGUID: 79cfad6d28604f54a97b32d45af9d2b2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 17
+      AssetReference:
+        m_AssetGUID: 7b2284d4a9faf474492e3b11a78a77ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 18
+      AssetReference:
+        m_AssetGUID: 61865cafb461b3b48a451dca4f88e17a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+    - WeaponType: 19
+      AssetReference:
+        m_AssetGUID: 0af9ef9f43e952441a60d5ec8dbbbc3a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0

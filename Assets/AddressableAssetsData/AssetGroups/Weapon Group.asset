@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapon Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapon Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 09479541f057d5e4b9f596ac90d01ca9
+  m_SerializeEntries:
+  - m_GUID: 26c304c542935a646a21dd134e1c2cea
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/AssaultRifleDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f3aa0537edf19a840a5ee3762f7bb9ed
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/BazookaDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce5dc50b63174014f92200f39ed282d1
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/ChemicalGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca77f62d2888f6c4a874efb77151ed72
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/CrossBowDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71c7a22b614cbb443877d9ba29e9999d
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/ElectricGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 77c66d64e7d1a8b458934029d50fcbf1
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/FlameThrowerDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aa9e0e616408abf4896f703b691204ed
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/GravityGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 61865cafb461b3b48a451dca4f88e17a
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/GrenadeDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ad09dd81121ac247850956387ca9111
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/HMGDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b09ec5d8c38278946a04894adb8f59e2
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/HuntingRifleDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 706c97aa8d177e1449c87cb36a81056d
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/IceGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b2284d4a9faf474492e3b11a78a77ca
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/KnifeDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79cfad6d28604f54a97b32d45af9d2b2
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/MiniGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 226c568e48d1bbc45a3110f8660d2e2c
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/PistolDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 180fdca6a657c804ea236f9f0ac7d81b
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/RailGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2cecb33133bf7b249b23daad68d0df10
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/SawGunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f1289a1c8e71ab4f9f8050e0a78c9ca
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/ShotgunDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a699b542f767504c9d47c83674ad4d9
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/SMGDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0af9ef9f43e952441a60d5ec8dbbbc3a
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/SmokeGrenadeDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4481c76bd8df8844b540671759a53e0
+    m_Address: Assets/Prefabs/Weapons/WeaponVariants/SniperRifleDefault.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 34de2528272b74a45a1eb123147ddedf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ec111fdef63c1124082879faf7624e20, type: 2}
+    - {fileID: 11400000, guid: 3c815e71b11f89142adca11387ad397a, type: 2}

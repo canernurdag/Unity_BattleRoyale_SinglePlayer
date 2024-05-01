@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Sounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d10282d6fabc6924d95f3d89fb6cb622
+  m_SerializeEntries:
+  - m_GUID: 15eb4a71aae820d468d74a019fede2cc
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/bar_fire_atk_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c25f3ccb3c58dd6449034e491be9b135
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/bibi_ulti_02.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6a8080d7fac56a4693095aabefbdaaf
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/bigshotgun01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c9515c3a66bd42144b4f879908add9c0
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/bow_fire_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e26308770697ad148bfbcec134e709fc
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/colette_atk_end_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c79a1fa0a92d534d9ab4186f8436307
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/colette_atk_hit_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 321feb9f51af885488e5ed433aecd467
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_explosion_bullet.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: df0ec39bb7429284fb2f1c3413e68098
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_explosion_frost.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 79c3cb7a26813d146b07c293b0324039
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_explosion_grenade.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 235db7e7f6d982140a4a5ac56629e519
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_explosion_mystic02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a7afb83373df6164d96478fc3ca41e4f
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_explosion_storm.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 14b16ff40093aba47bc467e148746cab
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_fireball.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 07532e25ab2bf0e4e9520610dfe2e0ce
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_frost.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c6d45d69015ca934fbd95932874c5b59
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_gas2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b45b19776b2e15e48947a75b76ccca86
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_laser.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bab18109cc0d434fa35ed3a525ef1e2
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_lightning2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c922c34f559ead440a273a13a924cfc7
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_pistol02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 31d4354cef3a92a4481b8c1464e22afd
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_rocket03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73f34590ca4a9b6409f7d3d29781d2ad
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/etfx_shoot_storm.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0234d7b8ed5efdd47b8fc910391b585e
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/frank_hit_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d57176b2064b8db44b7dcc62baef372a
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/gale_atk_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a46105ba07edfc4c8a42872efba0113
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/gene_atk_hit_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 798e01451209b7b4ba87bf87e458d995
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/jess_hit_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc3562a0a96aad643aed9e3c2c610635
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/laser_04.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a347b56550b643240994bcd9f2260753
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/pistol_fire_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e555302b6abe004fb6ed4d9c3713183
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/pistol_fire_ulti_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8dda79b39737cbe4497d54fb09e7349d
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/rhino_fire_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ecc080317147e4e448bc14f2957bdc15
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/rose_rocket_explo_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f8e32a56526e4d49ac66c961ec1ebe1
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/sprout_atk_explo_01.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: afd70995970633b4eab06b0b06d04a26
+    m_Address: Assets/Plugins/Art/_Exclude/SFX/Hittt.ogg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 34de2528272b74a45a1eb123147ddedf, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b1e4bcb83ef10f48a859adb9b0b965a, type: 2}
+    - {fileID: 11400000, guid: c4945f7c8d99d854ba51e18d78578728, type: 2}
